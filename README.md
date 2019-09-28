@@ -1,6 +1,27 @@
-# learn-cs-at-home-for-free
+# learn-cs-at-home-for-free <!-- omit in toc -->
 
-#### What is this?
+## Table of Contents <!-- omit in toc -->
+
+- [Preface](#preface)
+  - [What is this?](#what-is-this)
+  - [Design goals](#design-goals)
+- [Prerequisite](#prerequisite)
+- [Weekly Challenges](#weekly-challenges)
+  - [Week 1](#week-1)
+  - [Week 2](#week-2)
+- [Appendix](#appendix)
+  - [Data Structures](#data-structures)
+    - [Arrays and Strings](#arrays-and-strings)
+    - [Stacks](#stacks)
+    - [Queues](#queues)
+    - [Linked Lists](#linked-lists)
+    - [Hash Tables](#hash-tables)
+    - [Trees and Heaps](#trees-and-heaps)
+    - [Graphs](#graphs)
+  - [Algorithms](#algorithms)
+
+# Preface
+## What is this?
 There are a few different use cases:
 
 <details>
@@ -34,18 +55,18 @@ There are a few different use cases:
 </details>
 
 ## Design goals
-The main goal is to build a plan that can be cover foundation concepts of data structures & algorithms. Additionally, the plan should be followed with just a 10-20 hour weekly committment.
+Implement a plan that to learn and practice foundational concepts of data structures & algorithms. Additionally, the plan should be followed with just a 10-20 hour weekly committment.
 
 This may not be a robust resource like [`code-interview-university`](https://github.com/jwasham/coding-interview-university/blob/master/README.md), rather a more light-weight but actionable plan.
 
-## Prereqs
+# Prerequisite
+If this section cannot be achieved with existing programming skills, this will be preliminary work before moving on.
+
 Pick a language to master.
 _This is the language you will implement most of the algorithms with._
 
 <details>
 <summary>Complete all of these tasks below in the language.</summary><br>
-  
-**Below is a list I've borrowed from [here](http://blog.codingforinterviews.com/best-programming-language-jobs/)**
 
 1. Initializing and using hash-backed maps (dictionaries) and sets
 2. Performing queue and stack operations (whether using an array, like with Ruby’s pop/shift, or an explicit standard library implementation like Java’s Stack and Linked List-backed Queue classes)
@@ -60,7 +81,11 @@ _This is the language you will implement most of the algorithms with._
 11. (Bonus) Built-in language sorting. Quickly defining a comparator to sort an array.
 12. (More advanced candidates) The 5 standard bit manipulation operations (L/R shifts, not, or, and, xor)
 
+The above list I've borrowed from [here](http://blog.codingforinterviews.com/best-programming-language-jobs/).
+
 </details>
+
+# Weekly Challenges 
 
 ## Week 1
 Implement a **linked list.**
@@ -71,3 +96,93 @@ Describe space/time analysis of a linked list.
 Implement a **doubly-linked list.**
 
 Describe space/time analysis of a doubly-linked list.
+
+# Appendix
+
+## Data Structures
+
+### Arrays and Strings
+**Theoretical aspects**
+
+**Space/time complexities and analysis**
+
+**Implementation details**
+
+| Pros  | Cons  |
+| :---: | :---: |
+|       |       |
+|       |       |
+
+### Stacks
+**Theoretical aspects**
+
+**Space/time complexities and analysis**
+
+**Implementation details**
+
+| Pros  | Cons  |
+| :---: | :---: |
+|       |       |
+|       |       |
+
+### Queues
+**Theoretical aspects**
+
+**Space/time complexities and analysis**
+
+**Implementation details**
+
+| Pros  | Cons  |
+| :---: | :---: |
+|       |       |
+|       |       |
+
+### Linked Lists
+**Theoretical aspects**
+
+**Space/time complexities and analysis**
+
+**Implementation details**
+
+| Pros  | Cons  |
+| :---: | :---: |
+|       |       |
+|       |       |
+
+### Hash Tables
+**Theoretical aspects**
+
+**Space/time complexities and analysis**
+
+**Implementation details**
+
+| Pros  | Cons  |
+| :---: | :---: |
+|       |       |
+|       |       |
+
+### Trees and Heaps
+**Theoretical aspects**
+
+**Space/time complexities and analysis**
+
+**Implementation details**
+
+| Pros  | Cons  |
+| :---: | :---: |
+|       |       |
+|       |       |
+
+### Graphs
+**Theoretical aspects**
+
+**Space/time complexities and analysis**
+
+**Implementation details**
+
+| Pros  | Cons  |
+| :---: | :---: |
+|       |       |
+|       |       |
+
+## Algorithms
